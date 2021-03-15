@@ -1,5 +1,5 @@
 {
-    "name": "DivcomWebTeam/avataxclient",
+    "name": "divcomwebteam/avataxclient",
     "description": "Client library for Avalara's AvaTax suite of business tax calculation and processing services. Uses the REST v2 API.",
     "keywords": [
         "tax",
